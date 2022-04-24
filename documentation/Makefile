@@ -1,4 +1,4 @@
-DOXY_FILE = SeatHeatingApp
+DOXY_FILE = Seatheatingapp
 BUILD_FILE = html
 
 FixPath = $(subst /,\,$1)
