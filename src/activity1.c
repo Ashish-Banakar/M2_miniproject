@@ -19,6 +19,7 @@ void peripheral_init(void)
  * 
  * @return uint16_t 
  */
+/**
 
 uint16_t buttons()
 {
