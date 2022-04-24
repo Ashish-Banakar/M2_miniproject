@@ -105,4 +105,4 @@ PlotterWidget-42:
 SerialPortWidget-43: 
 <item childrenRect="" inputMethodHints="0" frameSize="" focusPolicy="0" maximumSize="" maximumHeight="170" minimumSizeHint="" windowOpacity="1" childrenRegion="" visible="false" locale="" fullScreen="false" minimumWidth="0" maximized="false" acceptDrops="false" baseSize="" minimumHeight="0" size="" accessibleDescription="" sizeIncrement="" windowModified="false" maximumWidth="450" modal="false" autoFillBackground="false" cursor="" toolTip="" SettingsProp=",0,3,0,0,0" whatsThis="" focus="false" normalGeometry="" x="0" windowIcon="" windowFilePath="" windowTitle="Settings" geometry="" contextMenuPolicy="1" mouseTracking="false" y="0" objectName="SerialPortWidget-43" minimumSize="" minimized="false" height="141" frameGeometry="" styleSheet="" statusTip="" width="313" updatesEnabled="true" accessibleName="" layoutDirection="0" rect="" isActiveWindow="true" enabled="true" sizeHint="" windowIconText="" itemtype="SerialPort" windowModality="0" pos="" palette="" sizePolicy="" toolTipDuration="-1" font="MS Shell Dlg 2,7.8,-1,5,50,0,0,0,0,0"/>
  
-</circuit>
+</circuit>.
