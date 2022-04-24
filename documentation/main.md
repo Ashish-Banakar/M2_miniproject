@@ -1,1 +1,1 @@
-@mainpage SeatHeatingApp by anoop @subpage project_main.c
+@mainpage SeatHeatingApp by ashish_ab @subpage project_main.c
