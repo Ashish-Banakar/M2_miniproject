@@ -16,6 +16,7 @@ void adc_init()
  * @param ch 
  * @return uint16_t 
  */
+/**
 
 uint16_t adc_read(uint8_t ch)
 {
