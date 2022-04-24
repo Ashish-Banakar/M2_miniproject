@@ -5,6 +5,7 @@
  * 
  * @param ubrr_value 
  */
+/**
 void USARTInit(uint16_t ubrr_value)
 {
     //Set Baud Rate
